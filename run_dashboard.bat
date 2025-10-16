@@ -1,5 +1,5 @@
 @echo off
-echo Starting NextLoad Dashboard...
+echo Starting Logistics Dashboard...
 echo.
 echo The dashboard will open in your default web browser.
 echo If it doesn't open automatically, go to: http://localhost:8501

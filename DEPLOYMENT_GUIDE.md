@@ -1,4 +1,4 @@
-# NextLoad Dashboard - Deployment Guide
+# Logistics Dashboard - Deployment Guide
 
 ## 🚀 Quick Start
 

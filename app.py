@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="NextLoad Dashboard",
+    page_title="Logistics Dashboard",
     page_icon="🚛",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -63,7 +63,7 @@ def load_data():
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">🚛 NextLoad Dashboard</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🚛 Logistics Dashboard</h1>', unsafe_allow_html=True)
     st.markdown("---")
     
     # Load data

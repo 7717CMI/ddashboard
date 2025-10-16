@@ -56,7 +56,7 @@ def test_data_processing():
     return True
 
 if __name__ == "__main__":
-    print("NextLoad Dashboard Test")
+    print("Logistics Dashboard Test")
     print("=" * 50)
     
     success = True

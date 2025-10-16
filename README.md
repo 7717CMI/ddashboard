@@ -1,4 +1,4 @@
-# NextLoad Dashboard
+# Logistics Dashboard
 
 A comprehensive Streamlit dashboard for visualizing load postings data from the logistics industry.
 
