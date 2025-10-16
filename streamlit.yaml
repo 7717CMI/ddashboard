@@ -1,0 +1,24 @@
+# Streamlit Cloud configuration
+# This file configures how Streamlit Cloud runs your app
+
+# Main app file
+main: app.py
+
+# Python version
+python_version: "3.11"
+
+# Dependencies
+dependencies:
+  - requirements.txt
+
+# Environment variables (if needed)
+# env:
+#   - VARIABLE_NAME=value
+
+# Build commands (if needed)
+# build:
+#   - echo "Building app..."
+
+# Run commands (if needed)
+# run:
+#   - echo "Running app..."
