@@ -34,7 +34,18 @@ The dashboard uses load postings data containing:
 
 ## Deployment
 
-This app is designed to be deployed on Streamlit Cloud. Simply connect your GitHub repository to Streamlit Cloud for automatic deployment.
+This app is deployed on Streamlit Cloud at: **https://ddashboard.streamlit.app**
+
+### Repository
+- **GitHub**: [https://github.com/7717CMI/ddashboard](https://github.com/7717CMI/ddashboard)
+- **Status**: ✅ Ready for deployment
+- **Main File**: `app.py`
+
+### Quick Deploy
+1. Go to [https://share.streamlit.io](https://share.streamlit.io)
+2. Connect repository: `7717CMI/ddashboard`
+3. Set main file: `app.py`
+4. Click "Deploy!"
 
 ## License
 
